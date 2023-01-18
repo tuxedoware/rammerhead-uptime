@@ -63,7 +63,7 @@ sites:
     url: https://r.aluminumnetwork.xyz/
   - name: rammerhead
     url: https://r.weeb-central.icu/
-  - name: rammerheadname: rammerhead
+  - name: rammerhead
     url: https://direct.weeb-central.icu/
   - name: rammerhead
     url: https://rh.weeb-central.icu/
@@ -91,7 +91,7 @@ sites:
     url: https://empowerlearning.titannetwork.info/
   - name: rammerhead
     url: https://enrichingstudents.titannetwork.info/
-  - name: rammerheadname: rammerhead
+  - name: rammerhead
     url: https://googleclassroom.titannetwork.info/
   - name: rammerhead
     url: https://cloudflare.rammerhead.org/
