@@ -3,80 +3,154 @@ owner: qwertydev1 # Your GitHub organization or username, where this repository 
 repo: rammerhead-uptime # The name of this repository
 
 sites:
-  - url: https://direct2.rammerhead.org/
-  - url: https://direct.rammerhead.org/
-  - url: https://ram.thefemboy.gay/
-  - url: https://browser.rammerhead.org/
-  - url: https://rammerhead.midnightofficial.xyz/
-  - url: https://a.midnightofficial.xyz/
-  - url: https://r.midnightofficial.xyz/
-  - url: https://e.midnightofficial.xyz/
-  - url: https://rh.midnightofficial.xyz/
-  - url: https://r.lucidofficial.xyz/
-  - url: https://r.apexhcf.xyz/
-  - url: https://r.kahoot.click/
-  - url: https://r.pyro.bar/
-  - url: https://sso.prodigygame.online/
-  - url: https://rm.triway.live/
-  - url: https://afsgderdfegtdfsewrdfserdgcvxdsfegrfbcv.ruralanemone.tech/
-  - url: https://yee.ruralanemone.tech/
-  - url: https://xmr.luph.cc/
-  - url: https://use.matrix.luph.lol/
-  - url: https://r.generalmathematics.net/
-  - url: https://legit.studyschooltoday.eu.org/
-  - url: https://sussybaka.studyschooltoday.eu.org/
-  - url: https://pickmysubdomaininchat.studyschooltoday.eu.org/
-  - url: https://my.name.is.john.cenaa.studyschooltoday.eu.org/
-  - url: https://r.utopia.education/
-  - url: https://r.utopiaunblocker.org/
-  - url: https://r.utopiaworld.ink/
-  - url: https://rh.aluminumnetwork.xyz/
-  - url: https://r.aluminumnetwork.xyz/
-  - url: https://r.weeb-central.icu/
-  - url: https://direct.weeb-central.icu/
-  - url: https://rh.weeb-central.icu/
-  - url: https://ram.weeb-central.icu/
-  - url: https://sso.weeb-central.icu/
-  - url: https://r.studyschooltoday.eu.org/
-  - url: https://desp.icable.me/
-  - url: https://bananaboat.me/
-  - url: https://rammer.camdvr.org/
-  - url: https://rammer.ooguy.com/
-  - url: https://rammer.giize.com/
-  - url: https://rammer.loseyourip.com/
-  - url: https://rh.titannetwork.info/
-  - url: https://empowerlearning.titannetwork.info/
-  - url: https://enrichingstudents.titannetwork.info/
-  - url: https://googleclassroom.titannetwork.info/
-  - url: https://cloudflare.rammerhead.org/
-  - url: https://rammerhead.morrowseer.xyz/
-  - url: https://poodle.xn--unup4y/
-  - url: https://rx.blackxfiied.xyz/
-  - url: https://ram.motortruck1221.tech/
-  - url: https://rh.motortruck1221.me/
-  - url: https://rd.globalcentauri.tech/
-  - url: https://ramming.xan.lol/
-  - url: https://rh.naruto.tech/
-  - url: https://pwoxywoxy.xan.lol/
-  - url: https://rh.lhost.dev/
-  - url: https://chrome.lhost.dev/
-  - url: https://blocked.lhost.dev/
-  - url: https://tabs.lhost.dev/
-  - url: https://r.willuna.live/
-  - url: https://direct3.rammerhead.org/
-  - url: https://rh.lwaid.dev/
-  - url: https://direct4.rammerhead.org/
-  - url: https://direct5.rammerhead.org/
-  - url: https://rammerhead.yitzib.me/
-  - url: https://not.my.actual.name.yitzib.me/
-  - url: https://r.yitzib.me/
-  - url: https://im.not.r.aci.st/
-  - url: https://breadtw.ink/
-  - url: https://against.the.gra.im/
-  - url: https://r.il.ax/
-  - url: https://link2.viewdns.net/
-  - url: https://rammerhead.izooc.ninja/
+  - name: rammerhead
+    url: https://direct2.rammerhead.org/
+  - name: rammerhead
+    url: https://direct.rammerhead.org/
+  - name: rammerhead
+    url: https://ram.thefemboy.gay/
+  - name: rammerhead
+    url: https://browser.rammerhead.org/
+  - name: rammerhead
+    url: https://rammerhead.midnightofficial.xyz/
+  - name: rammerhead
+    url: https://a.midnightofficial.xyz/
+  - name: rammerhead
+    url: https://r.midnightofficial.xyz/
+  - name: rammerhead
+    url: https://e.midnightofficial.xyz/
+  - name: rammerhead
+    url: https://rh.midnightofficial.xyz/
+  - name: rammerhead
+    url: https://r.lucidofficial.xyz/
+  - name: rammerhead
+    url: https://r.apexhcf.xyz/
+  - name: rammerhead
+    url: https://r.kahoot.click/
+  - name: rammerhead
+    url: https://r.pyro.bar/
+  - name: rammerhead
+    url: https://sso.prodigygame.online/
+  - name: rammerhead
+    url: https://rm.triway.live/
+  - name: rammerhead
+    url: https://afsgderdfegtdfsewrdfserdgcvxdsfegrfbcv.ruralanemone.tech/
+  - name: rammerheadname: rammerhead
+    url: https://yee.ruralanemone.tech/
+  - name: rammerhead
+    url: https://xmr.luph.cc/
+  - name: rammerhead
+    url: https://use.matrix.luph.lol/
+  - name: rammerhead
+    url: https://r.generalmathematics.net/
+  - name: rammerhead
+    url: https://legit.studyschooltoday.eu.org/
+  - name: rammerhead
+    url: https://sussybaka.studyschooltoday.eu.org/
+  - name: rammerhead
+    url: https://pickmysubdomaininchat.studyschooltoday.eu.org/
+  - name: rammerhead
+    url: https://my.name.is.john.cenaa.studyschooltoday.eu.org/
+  - name: rammerhead
+    url: https://r.utopia.education/
+  - name: rammerhead
+    url: https://r.utopiaunblocker.org/
+  - name: rammerhead
+    url: https://r.utopiaworld.ink/
+  - name: rammerhead
+    url: https://rh.aluminumnetwork.xyz/
+  - name: rammerhead
+    url: https://r.aluminumnetwork.xyz/
+  - name: rammerhead
+    url: https://r.weeb-central.icu/
+  - name: rammerheadname: rammerhead
+    url: https://direct.weeb-central.icu/
+  - name: rammerhead
+    url: https://rh.weeb-central.icu/
+  - name: rammerhead
+    url: https://ram.weeb-central.icu/
+  - name: rammerhead
+    url: https://sso.weeb-central.icu/
+  - name: rammerhead
+    url: https://r.studyschooltoday.eu.org/
+  - name: rammerhead
+    url: https://desp.icable.me/
+  - name: rammerhead
+    url: https://bananaboat.me/
+  - name: rammerhead
+    url: https://rammer.camdvr.org/
+  - name: rammerhead
+    url: https://rammer.ooguy.com/
+  - name: rammerhead
+    url: https://rammer.giize.com/
+  - name: rammerhead
+    url: https://rammer.loseyourip.com/
+  - name: rammerhead
+    url: https://rh.titannetwork.info/
+  - name: rammerhead
+    url: https://empowerlearning.titannetwork.info/
+  - name: rammerhead
+    url: https://enrichingstudents.titannetwork.info/
+  - name: rammerheadname: rammerhead
+    url: https://googleclassroom.titannetwork.info/
+  - name: rammerhead
+    url: https://cloudflare.rammerhead.org/
+  - name: rammerhead
+    url: https://rammerhead.morrowseer.xyz/
+  - name: rammerhead
+    url: https://poodle.xn--unup4y/
+  - name: rammerhead
+    url: https://rx.blackxfiied.xyz/
+  - name: rammerhead
+    url: https://ram.motortruck1221.tech/
+  - name: rammerhead
+    url: https://rh.motortruck1221.me/
+  - name: rammerhead
+    url: https://rd.globalcentauri.tech/
+  - name: rammerhead
+    url: https://ramming.xan.lol/
+  - name: rammerhead
+    url: https://rh.naruto.tech/
+  - name: rammerhead
+    url: https://pwoxywoxy.xan.lol/
+  - name: rammerhead
+    url: https://rh.lhost.dev/
+  - name: rammerhead
+    url: https://chrome.lhost.dev/
+  - name: rammerhead
+    url: https://blocked.lhost.dev/
+  - name: rammerhead
+    url: https://tabs.lhost.dev/
+  - name: rammerhead
+    url: https://r.willuna.live/
+  - name: rammerhead
+    url: https://direct3.rammerhead.org/
+  - name: rammerhead
+    url: https://rh.lwaid.dev/
+  - name: rammerhead
+    url: https://direct4.rammerhead.org/
+  - name: rammerhead
+    url: https://direct5.rammerhead.org/
+  - name: rammerhead
+    url: https://rammerhead.yitzib.me/
+  - name: rammerhead
+    url: https://not.my.actual.name.yitzib.me/
+  - name: rammerhead
+    url: https://r.yitzib.me/
+  - name: rammerhead
+    url: https://im.not.r.aci.st/
+  - name: rammerhead
+    url: https://breadtw.ink/
+  - name: rammerhead
+    url: https://against.the.gra.im/
+  - name: rammerhead
+    url: https://r.il.ax/
+  - name: rammerhead
+    url: https://link2.viewdns.net/
+  - name: rammerhead
+    url: https://rammerhead.izooc.ninja/
   
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
