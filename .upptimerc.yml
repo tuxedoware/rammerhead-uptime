@@ -1,82 +1,156 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: qwertydev1 # Your GitHub organization or username, where this repository lives
+repo: rammerhead-uptime # The name of this repository
 
 sites:
-  - url: https://direct2.rammerhead.org/
-  - url: https://direct.rammerhead.org/
-  - url: https://ram.thefemboy.gay/
-  - url: https://browser.rammerhead.org/
-  - url: https://rammerhead.midnightofficial.xyz/
-  - url: https://a.midnightofficial.xyz/
-  - url: https://r.midnightofficial.xyz/
-  - url: https://e.midnightofficial.xyz/
-  - url: https://rh.midnightofficial.xyz/
-  - url: https://r.lucidofficial.xyz/
-  - url: https://r.apexhcf.xyz/
-  - url: https://r.kahoot.click/
-  - url: https://r.pyro.bar/
-  - url: https://sso.prodigygame.online/
-  - url: https://rm.triway.live/
-  - url: https://afsgderdfegtdfsewrdfserdgcvxdsfegrfbcv.ruralanemone.tech/
-  - url: https://yee.ruralanemone.tech/
-  - url: https://xmr.luph.cc/
-  - url: https://use.matrix.luph.lol/
-  - url: https://r.generalmathematics.net/
-  - url: https://legit.studyschooltoday.eu.org/
-  - url: https://sussybaka.studyschooltoday.eu.org/
-  - url: https://pickmysubdomaininchat.studyschooltoday.eu.org/
-  - url: https://my.name.is.john.cenaa.studyschooltoday.eu.org/
-  - url: https://r.utopia.education/
-  - url: https://r.utopiaunblocker.org/
-  - url: https://r.utopiaworld.ink/
-  - url: https://rh.aluminumnetwork.xyz/
-  - url: https://r.aluminumnetwork.xyz/
-  - url: https://r.weeb-central.icu/
-  - url: https://direct.weeb-central.icu/
-  - url: https://rh.weeb-central.icu/
-  - url: https://ram.weeb-central.icu/
-  - url: https://sso.weeb-central.icu/
-  - url: https://r.studyschooltoday.eu.org/
-  - url: https://desp.icable.me/
-  - url: https://bananaboat.me/
-  - url: https://rammer.camdvr.org/
-  - url: https://rammer.ooguy.com/
-  - url: https://rammer.giize.com/
-  - url: https://rammer.loseyourip.com/
-  - url: https://rh.titannetwork.info/
-  - url: https://empowerlearning.titannetwork.info/
-  - url: https://enrichingstudents.titannetwork.info/
-  - url: https://googleclassroom.titannetwork.info/
-  - url: https://cloudflare.rammerhead.org/
-  - url: https://rammerhead.morrowseer.xyz/
-  - url: https://poodle.xn--unup4y/
-  - url: https://rx.blackxfiied.xyz/
-  - url: https://ram.motortruck1221.tech/
-  - url: https://rh.motortruck1221.me/
-  - url: https://rd.globalcentauri.tech/
-  - url: https://ramming.xan.lol/
-  - url: https://rh.naruto.tech/
-  - url: https://pwoxywoxy.xan.lol/
-  - url: https://rh.lhost.dev/
-  - url: https://chrome.lhost.dev/
-  - url: https://blocked.lhost.dev/
-  - url: https://tabs.lhost.dev/
-  - url: https://r.willuna.live/
-  - url: https://direct3.rammerhead.org/
-  - url: https://rh.lwaid.dev/
-  - url: https://direct4.rammerhead.org/
-  - url: https://direct5.rammerhead.org/
-  - url: https://rammerhead.yitzib.me/
-  - url: https://not.my.actual.name.yitzib.me/
-  - url: https://r.yitzib.me/
-  - url: https://im.not.r.aci.st/
-  - url: https://breadtw.ink/
-  - url: https://against.the.gra.im/
-  - url: https://r.il.ax/
-  - url: https://link2.viewdns.net/
-  - url: https://rammerhead.izooc.ninja/
+  - name: rammerhead1
+    url: https://direct2.rammerhead.org/
+  - name: rammerhead2
+    url: https://direct.rammerhead.org/
+  - name: rammerhead3
+    url: https://ram.thefemboy.gay/
+  - name: rammerhead4
+    url: https://browser.rammerhead.org/
+  - name: rammerhead5
+    url: https://rammerhead.midnightofficial.xyz/
+  - name: rammerhead6
+    url: https://a.midnightofficial.xyz/
+  - name: rammerhead7
+    url: https://r.midnightofficial.xyz/
+  - name: rammerhead8
+    url: https://e.midnightofficial.xyz/
+  - name: rammerhead9
+    url: https://rh.midnightofficial.xyz/
+  - name: rammerhead10
+    url: https://r.lucidofficial.xyz/
+  - name: rammerhead11
+    url: https://r.apexhcf.xyz/
+  - name: rammerhead12
+    url: https://r.kahoot.click/
+  - name: rammerhead13
+    url: https://r.pyro.bar/
+  - name: rammerhead14
+    url: https://sso.prodigygame.online/
+  - name: rammerhead15
+    url: https://rm.triway.live/
+  - name: rammerhead16
+    url: https://afsgderdfegtdfsewrdfserdgcvxdsfegrfbcv.ruralanemone.tech/
+  - name: rammerhead17
+    url: https://yee.ruralanemone.tech/
+  - name: rammerhead18
+    url: https://xmr.luph.cc/
+  - name: rammerhead19
+    url: https://use.matrix.luph.lol/
+  - name: rammerhead20
+    url: https://r.generalmathematics.net/
+  - name: rammerhead21
+    url: https://legit.studyschooltoday.eu.org/
+  - name: rammerhead22
+    url: https://sussybaka.studyschooltoday.eu.org/
+  - name: rammerhead23
+    url: https://pickmysubdomaininchat.studyschooltoday.eu.org/
+  - name: rammerhead24
+    url: https://my.name.is.john.cenaa.studyschooltoday.eu.org/
+  - name: rammerhead25
+    url: https://r.utopia.education/
+  - name: rammerhead26
+    url: https://r.utopiaunblocker.org/
+  - name: rammerhead27
+    url: https://r.utopiaworld.ink/
+  - name: rammerhead28
+    url: https://rh.aluminumnetwork.xyz/
+  - name: rammerhead29
+    url: https://r.aluminumnetwork.xyz/
+  - name: rammerhead30
+    url: https://r.weeb-central.icu/
+  - name: rammerhead31
+    url: https://direct.weeb-central.icu/
+  - name: rammerhead32
+    url: https://rh.weeb-central.icu/
+  - name: rammerhead33
+    url: https://ram.weeb-central.icu/
+  - name: rammerhead34
+    url: https://sso.weeb-central.icu/
+  - name: rammerhead35
+    url: https://r.studyschooltoday.eu.org/
+  - name: rammerhead36
+    url: https://desp.icable.me/
+  - name: rammerhead37
+    url: https://bananaboat.me/
+  - name: rammerhead38
+    url: https://rammer.camdvr.org/
+  - name: rammerhead39
+    url: https://rammer.ooguy.com/
+  - name: rammerhead40
+    url: https://rammer.giize.com/
+  - name: rammerhead41
+    url: https://rammer.loseyourip.com/
+  - name: rammerhead42
+    url: https://rh.titannetwork.info/
+  - name: rammerhead43
+    url: https://empowerlearning.titannetwork.info/
+  - name: rammerhead44
+    url: https://enrichingstudents.titannetwork.info/
+  - name: rammerhead45
+    url: https://googleclassroom.titannetwork.info/
+  - name: rammerhead46
+    url: https://cloudflare.rammerhead.org/
+  - name: rammerhead47
+    url: https://rammerhead.morrowseer.xyz/
+  - name: rammerhead48
+    url: https://poodle.xn--unup4y/
+  - name: rammerhead49
+    url: https://rx.blackxfiied.xyz/
+  - name: rammerhead50
+    url: https://ram.motortruck1221.tech/
+  - name: rammerhead51
+    url: https://rh.motortruck1221.me/
+  - name: rammerhead52
+    url: https://rd.globalcentauri.tech/
+  - name: rammerhead53
+    url: https://ramming.xan.lol/
+  - name: rammerhead54
+    url: https://rh.naruto.tech/
+  - name: rammerhead55
+    url: https://pwoxywoxy.xan.lol/
+  - name: rammerhead56
+    url: https://rh.lhost.dev/
+  - name: rammerhead57
+    url: https://chrome.lhost.dev/
+  - name: rammerhead58
+    url: https://blocked.lhost.dev/
+  - name: rammerhead59
+    url: https://tabs.lhost.dev/
+  - name: rammerhead60
+    url: https://r.willuna.live/
+  - name: rammerhead61
+    url: https://direct3.rammerhead.org/
+  - name: rammerhead62
+    url: https://rh.lwaid.dev/
+  - name: rammerhead63
+    url: https://direct4.rammerhead.org/
+  - name: rammerhead64
+    url: https://direct5.rammerhead.org/
+  - name: rammerhead65
+    url: https://rammerhead.yitzib.me/
+  - name: rammerhead66
+    url: https://not.my.actual.name.yitzib.me/
+  - name: rammerhead67
+    url: https://r.yitzib.me/
+  - name: rammerhead68
+    url: https://im.not.r.aci.st/
+  - name: rammerhead69
+    url: https://breadtw.ink/
+  - name: rammerhead70
+    url: https://against.the.gra.im/
+  - name: rammerhead71
+    url: https://r.il.ax/
+  - name: rammerhead72
+    url: https://link2.viewdns.net/
+  - name: rammerhead73
+    url: https://rammerhead.izooc.ninja/
   
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
