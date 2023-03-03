@@ -1228,19 +1228,19 @@
     "url": "https://breadtw.ink/",
     "icon": "https://icons.duckduckgo.com/ip3/breadtw.ink.ico",
     "slug": "rammerhead69",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "93.11%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.84%",
-    "time": 755,
-    "timeDay": 1405,
-    "timeWeek": 1405,
-    "timeMonth": 946,
-    "timeYear": 755,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "92.74%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.83%",
+    "time": 771,
+    "timeDay": 1419,
+    "timeWeek": 1419,
+    "timeMonth": 963,
+    "timeYear": 771,
     "dailyMinutesDown": {
-      "2023-03-03": 100
+      "2023-03-03": 105
     }
   },
   {
