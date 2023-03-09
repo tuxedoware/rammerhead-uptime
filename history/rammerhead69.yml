@@ -1,7 +1,7 @@
 url: https://breadtw.ink/
-status: up
-code: 200
-responseTime: 5264
-lastUpdated: 2023-03-09T16:54:38.096Z
+status: down
+code: 502
+responseTime: 400
+lastUpdated: 2023-03-09T17:00:31.024Z
 startTime: Wed Jan 18 2023 23:12:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
